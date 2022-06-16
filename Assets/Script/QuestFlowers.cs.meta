@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d77f5173adb1743498e12d199fc23251
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - thisFlower: {instanceID: 0}
+  - thisLight: {instanceID: 0}
+  - bridge: {instanceID: 0}
+  - camera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
